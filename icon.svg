@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#2a7f9e"/>
+<g fill="#ffffff">
+<path d="M262 170c38 0 66 30 66 78 0 40-14 62-14 98 0 30 10 44 10 66 0 26-22 44-52 44s-58-20-58-60c0-38 14-58 10-96-4-36-28-50-28-82 0-30 30-48 66-48z"/>
+<ellipse cx="208" cy="128" rx="27" ry="32"/>
+<circle cx="257" cy="104" r="20"/>
+<circle cx="298" cy="108" r="17"/>
+<circle cx="333" cy="124" r="14"/>
+<circle cx="360" cy="148" r="12"/>
+</g>
+<text x="256" y="486" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="50" fill="#fff" text-anchor="middle" letter-spacing="3">HAPPY FEET</text>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "Happy Feet · Material",
+  "short_name": "Happy Feet",
+  "description": "Control del material de la clínica de podología Happy Feet",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2a7f9e",
+  "theme_color": "#2a7f9e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
